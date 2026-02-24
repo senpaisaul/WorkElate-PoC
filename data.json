@@ -1,0 +1,62 @@
+[
+    {
+        "customer_id": "C101", "developer_id": "D505", "client_name": "TechFlow Solutions",
+        "project_details": "Project Alpha: Legacy server migration to AWS. Status: 85% complete.",
+        "milestones": "DB Migration - DONE. S3 Bucket setup - DONE.",
+        "latest_update": "Final testing of the load balancer is underway."
+    },
+    {
+        "customer_id": "C202", "developer_id": "D606", "client_name": "GreenGrid Energy",
+        "project_details": "Project SolarSync: Dashboard UI for smart grids. Status: Design Phase.",
+        "milestones": "Figma Wireframes - Approved. React scaffolding - Starting.",
+        "latest_update": "Design system finalized; developers are initializing the React app."
+    },
+    {
+        "customer_id": "C303", "developer_id": "D707", "client_name": "BlueWave Logistics",
+        "project_details": "Project CargoTrack: Real-time GPS tracking mobile app. Status: Testing.",
+        "milestones": "iOS Build - Testing. Android Build - Ready for QA.",
+        "latest_update": "Fixing a minor latency issue with the Google Maps API integration."
+    },
+    {
+        "customer_id": "C404", "developer_id": "D808", "client_name": "HealthPulse Inc.",
+        "project_details": "Project MedData: HIPAA compliant data warehouse. Status: Security Audit.",
+        "milestones": "Data ingestion - DONE. Encryption at rest - DONE.",
+        "latest_update": "Internal security audit passed. External audit scheduled for Friday."
+    },
+    {
+        "customer_id": "C505", "developer_id": "D505", "client_name": "SkyHigh Retail",
+        "project_details": "Project OmniShop: E-commerce platform upgrade. Status: Deployment.",
+        "milestones": "Checkout overhaul - DONE. Stripe integration - DONE.",
+        "latest_update": "Zero-downtime deployment successfully executed on the staging server."
+    },
+    {
+        "customer_id": "C606", "developer_id": "D909", "client_name": "FinSecure Bank",
+        "project_details": "Project Vault: Blockchain-based audit trail. Status: Development.",
+        "milestones": "Smart contract logic - 90%. Frontend bridge - In Progress.",
+        "latest_update": "Developer identified a bug in the smart contract gas estimation."
+    },
+    {
+        "customer_id": "C707", "developer_id": "D606", "client_name": "EduLearn Pro",
+        "project_details": "Project ClassMate: AI-driven personalized learning paths. Status: Pilot.",
+        "milestones": "LLM integration - DONE. Content tagging - DONE.",
+        "latest_update": "Pilot phase started with 50 students. Early feedback is very positive."
+    },
+    {
+        "customer_id": "C808", "developer_id": "D707", "client_name": "UrbanFlow Labs",
+        "project_details": "Project TrafficSense: IoT sensors for city traffic. Status: Data Analysis.",
+        "milestones": "Sensor hardware setup - DONE. Data stream - Live.",
+        "latest_update": "Gathering initial data points. AI model training will begin next week."
+    },
+    {
+        "customer_id": "C909", "developer_id": "D808", "client_name": "TravelEase Ltd.",
+        "project_details": "Project Wanderer: Multilingual travel booking engine. Status: MVP Phase.",
+        "milestones": "Search engine - DONE. Payment gateway - Pending.",
+        "latest_update": "Waiting for client approval on the international currency conversion logic."
+    },
+    {
+        "customer_id": "C000", "developer_id": "D909", "client_name": "BuildIt Construction",
+        "project_details": "Project SiteManager: AR overlay for architectural plans. Status: R&D.",
+        "milestones": "AR Core integration - DONE. 3D Model loading - Testing.",
+        "latest_update": "Refining the 3D model occlusion to work better in outdoor lighting."
+    }
+]
